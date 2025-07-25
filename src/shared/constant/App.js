@@ -1,5 +1,5 @@
-export const BASE_API = "https://mobile-shop-api-3ybb.onrender.com";
-export const BASE_URL = "https://mobile-shop-api-3ybb.onrender.com";
+export const BASE_API = "https://mobile-shop-api-llds.onrender.com";
+export const BASE_URL = "https://mobile-shop-api-llds.onrender.com";
 //Pagination
 export const PAGINATION_DELTA = 2;
 export const PAGINATION_LIMIT = 6;
