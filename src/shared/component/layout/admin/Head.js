@@ -1,0 +1,67 @@
+function Head() {
+  return (
+    <div>
+      <meta charSet="utf-8" />
+      <title>Administrator</title>
+
+      <div>
+        <link
+          rel="stylesheet"
+          href="../css/admin/style.css"
+          id="admin-style-1"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/bootstrap-table.css"
+          id="admin-style-2"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/bootstrap-theme.css"
+          id="admin-style-3"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/bootstrap-theme.css.map"
+          id="admin-style-4"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/bootstrap-theme.min.css"
+          id="admin-style-5"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/bootstrap.css"
+          id="admin-style-6"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/bootstrap.css.map"
+          id="admin-style-7"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/bootstrap.min.css"
+          id="admin-style-8"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/datepicker.css"
+          id="admin-style-8"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/datepicker3.css"
+          id="admin-style-10"
+        />
+        <link
+          rel="stylesheet"
+          href="css/admin/datepicker3.css"
+          id="admin-style-11"
+        />
+      </div>
+    </div>
+  );
+}
+export default Head;
