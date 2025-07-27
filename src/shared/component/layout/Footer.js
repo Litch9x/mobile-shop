@@ -13,17 +13,17 @@ function Footer() {
                 </Link>
               </h2>
               <p>
-                Vietpro Academy thành lập năm 2009. Chúng tôi đào tạo chuyên sâu
-                trong 2 lĩnh vực là Lập trình Website &amp; Mobile nhằm cung cấp
-                cho thị trường CNTT Việt Nam những lập trình viên thực sự chất
-                lượng, có khả năng làm việc độc lập, cũng như Team Work ở mọi
-                môi trường đòi hỏi sự chuyên nghiệp cao.
+                Litch Mobile Shop là cửa hàng chuyên cung cấp điện thoại di
+                động chính hãng và phụ kiện công nghệ uy tín, chất lượng tại
+                Việt Nam. Với phương châm “Uy tín tạo nên thương hiệu”, chúng
+                tôi luôn nỗ lực mang đến cho khách hàng những sản phẩm tốt nhất
+                với giá cả cạnh tranh và dịch vụ hậu mãi tận tâm.
               </p>
             </div>
             <div id="address" className="col-lg-3 col-md-6 col-sm-12">
               <h3>Địa chỉ</h3>
-              <p>B8A Võ Văn Dũng - Hoàng Cầu Đống Đa - Hà Nội</p>
-              <p>Số 25 Ngõ 178/71 - Tây Sơn Đống Đa - Hà Nội</p>
+              <p>Số 97 Chính Kinh - Thanh Xuân - Hà Nội</p>
+              <p>Số 2 Tây Sơn - Đống Đa - Hà Nội</p>
             </div>
             <div id="service" className="col-lg-3 col-md-6 col-sm-12">
               <h3>Dịch vụ</h3>
@@ -32,8 +32,8 @@ function Footer() {
             </div>
             <div id="hotline" className="col-lg-3 col-md-6 col-sm-12">
               <h3>Hotline</h3>
-              <p>Phone Sale: (+84) 0988 550 553</p>
-              <p>Email: vietpro.edu.vn@gmail.com</p>
+              <p>Phone Sale: (+84) 0345 666 888</p>
+              <p>Email: test@gmail.com</p>
             </div>
           </div>
         </div>
